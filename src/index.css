@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.leftbar-container {
+  width: 20%;
+  height: 545px;
+  background: #EDF2F7;
+  display: flex;
+  flex-direction: column;
+
+}
+.leftbar-child-div{
+  padding-left: 40px;
+  padding-top: 42px;
+  width: 100%;
+}
+.maincontent-container{
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  
+}
+.display{
+  display: flex;
+}
+.page-display{
+  width: 100%;
+  height: 100vh;
+}

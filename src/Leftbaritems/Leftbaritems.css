@@ -1,0 +1,19 @@
+.letf-item-name {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #2C5282;
+    padding-left: 13px;
+
+}
+.left-icon-size{
+    font-size: 14px;
+}
+.leftitem-layout{
+    display: flex;
+    align-items: center;
+    width: 160px;
+    padding-bottom: 18px;
+}

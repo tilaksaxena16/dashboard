@@ -1,0 +1,56 @@
+.nav-text {
+    width: 33px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2C5282;
+}
+
+.nav-button {
+    width: 135px;
+    height: 42px;
+    background: #2A4365;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-size {
+    font-size: 14px;
+    padding-right: 8px;
+}
+
+
+.nav-button-name {
+    width: 63px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFCFE;
+
+}
+
+.nav-layout {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin-bottom: 31px;
+    width: 95%;
+    justify-content: space-evenly;
+    margin-left: 30px;
+}
+
+.nav-border {
+    width: 1054px;
+    height: 0px;
+    border: 1px solid #E2E8F0;
+    margin-bottom: 14px;
+    margin-left: 13px;
+}
